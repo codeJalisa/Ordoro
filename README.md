@@ -13,4 +13,4 @@ Ordoro Coding Challenge: Write Python code to use our test API to do the followi
 
     - Docs: https://ordorocodingtest.docs.apiary.io/
 
-    -API url: https://us-central1-marcy-playground.cloudfunctions.net/ordoroCodingTest
+    - API url: https://us-central1-marcy-playground.cloudfunctions.net/ordoroCodingTest
