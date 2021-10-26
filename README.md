@@ -14,3 +14,13 @@ Write Python code to use our test API to do the following:
     - Docs: https://ordorocodingtest.docs.apiary.io/
 
     - API url: https://us-central1-marcy-playground.cloudfunctions.net/ordoroCodingTest
+
+## How to Run
+
+### From VS Code
+
+    - Run 'Code Challenge' from launch.json file
+
+### From File
+
+    - Run 'src/CodeChallenege/main.py'. This class will automatically kick off the application.
