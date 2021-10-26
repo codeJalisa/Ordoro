@@ -1,5 +1,5 @@
-# Ordoro
-Ordoro Coding Challenge: Write Python code to use our test API to do the following
+# Ordoro Coding Challenge
+Write Python code to use our test API to do the following:
 
     - Get the data from the API.
 
